@@ -13,6 +13,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [0.0.2-alpha+mc1.21.4] 2025-1-22
+
+### Changed
+
+#### General
+
+- Ported to 1.21.4
+
 ## [0.0.2-alpha+mc1.21.3] 2024-12-24
 
 ### Added
